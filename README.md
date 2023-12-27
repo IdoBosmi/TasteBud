@@ -6,8 +6,8 @@ Welcome to the TasteBud IoT Progress Tracker project!
 
 TasteBud is a customizable IoT solution designed to assist picky eaters in tracking and improving their eating habits. This project utilizes two ESP devices (ESP8266 or ESP32) to monitor and display progress towards dietary goals. The system features a magnet sensor, LED strip, and Firebase integration for real-time data tracking. Below, you'll find information on how to set up and run the project.
 
-# Demo
-Watch the TasteBud demo video
+# TasteBud Video
+
 [![Demo Video](http://img.youtube.com/vi/B_ZtrMk7EWI/0.jpg)](http://www.youtube.com/watch?v=B_ZtrMk7EWI)
 
 # How Does It Work?
